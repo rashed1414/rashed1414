@@ -69,7 +69,6 @@
 ---
 
 
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -84,6 +83,10 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Rashed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
+  <img align="left" alt="Rashed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 </details>
 
