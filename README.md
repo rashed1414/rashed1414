@@ -27,6 +27,11 @@
 <a href="https://github.com/rashed1414">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" alt="Rashed's github stats"/>
 </a>
+
+<img
+  src="https://github.com/rashed1414/rashed1414/blob/main/images/stat.svg"
+  alt="Rashed's WakaTime Activity"
+/>
 <!--<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
