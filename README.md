@@ -29,24 +29,12 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" alt="Rashed's github stats"/>
 </a>
 
-<img
-  src="https://github.com/rashed1414/rashed1414/blob/main/images/stat.svg"
-  alt="Rashed's WakaTime Activity"
-/>
 
-<!--<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>-->
 
 <div align="left">
   
-<br />
-<br />
-
+---
 ---
 
 
@@ -74,9 +62,15 @@
 <br />
 
 ---
+  
+---
 
-
-
+## Statistics about me
+  
+  
+---
+  
+---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -87,13 +81,37 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Coding Stats</summary>
+  
+<br />
+<br />
+  
+  <img
+     width="450"  height="400"
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/92c69cd9-0241-4d4d-8b21-ed3a3d961b77.svg"
+     style="border:5px solid black" />
+  <img
+     width="500"  height="400"
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/7061972b-c58d-450e-ade6-d3d7caf43efe.svg"
+      style="border:5px solid black"/>
 
-  <img align="left" alt="Rashed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  
+  
+ <img
+     width="450"  height="400"
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/27535861-51d3-4d0b-8706-bf26c1f4cc4d.png" 
+     style="border:5px solid black" />
+  <img
+     width="500"  height="400"
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/4359a51c-1c13-4d5e-be82-cb3d537eed92.png"
+      style="border:5px solid black"/>
+ 
 
-
-  <img align="left" alt="Rashed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+  
 
 </details>
+
+
+
 
