@@ -1,13 +1,14 @@
-## Hola, I'm [Rashed Mohamed!](--) 👋
+## Hi There, I'm [Rashed Mohamed!](--) 👋
 
 <p align="left"> <img width="100px" src="https://komarev.com/ghpvc/?username=rashed1414&label=Views&color=blue&style=plastic" alt="rashed1414" /> </p>
 
 
 
 
-- 🔭 I’m currently Student.
-- 🌱 I’m currently learning more about Everything Related to computer.
+- 🔭 I’m Interested in Software Engineering ,Test Automation and Machine learning.
+- 🌱 I’m currently learning about Everything Related to computer science.
 - 😄 Pronouns: He/His
+- Spoken Languages : Arabic (Native) - English (Fluent)
 
 
 ### Connect with me:
