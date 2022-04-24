@@ -1,4 +1,4 @@
-## Hi There, I'm [Rashed Mohamed!](--) 👋
+## Hi There, I'm [Rashed Mohamed!](--) 👋 <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width=40%>  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width=17%>
 
 <p align="left"> <img width="100px" src="https://komarev.com/ghpvc/?username=rashed1414&label=Views&color=blue&style=plastic" alt="rashed1414" /> </p>
 
