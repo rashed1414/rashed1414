@@ -90,7 +90,7 @@
   
   <img
      width="450"  height="400"
-     align="center" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/92c69cd9-0241-4d4d-8b21-ed3a3d961b77.svg"
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/92c69cd9-0241-4d4d-8b21-ed3a3d961b77.svg"
      style="border:5px solid black" />
   <img
      width="450"  height="400"
@@ -104,14 +104,13 @@
   
  <img
      width="450"  height="400"
-     align="centre" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/27535861-51d3-4d0b-8706-bf26c1f4cc4d.png" 
+     align="left" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/27535861-51d3-4d0b-8706-bf26c1f4cc4d.png" 
      style="border:5px solid black" />
   <img
      width="450"  height="400"
      align="right" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/4359a51c-1c13-4d5e-be82-cb3d537eed92.png"
       style="border:5px solid black"/>
  
----
   
 
   
