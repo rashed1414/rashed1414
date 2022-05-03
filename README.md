@@ -4,8 +4,11 @@
 
 <p align="left"> <img width="100px" src="https://komarev.com/ghpvc/?username=rashed1414&label=Views&color=blue&style=plastic" alt="rashed1414" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed1414&theme=monokai" alt="rashed1414" /></a> </p>
 
+---
 
+---
 
 - 🔭 I’m Interested in Software Engineering ,Test Automation and Machine learning.
 - 🌱 I’m currently learning about Everything Related to computer science.
@@ -25,12 +28,14 @@
 
 
 <a href="https://github.com/rashed1414">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rashed1414">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" alt="Rashed's github stats"/>
 </a>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed1414&" alt="rashed1414" /></p>
 
 
 
