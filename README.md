@@ -4,6 +4,10 @@
 
 <p align="left"> <img width="100px" src="https://komarev.com/ghpvc/?username=rashed1414&label=Views&color=blue&style=plastic" alt="rashed1414" /> </p>
 
+---
+
+---
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed1414&theme=monokai" alt="rashed1414" /></a> </p>
 
 ---
