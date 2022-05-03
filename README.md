@@ -101,10 +101,7 @@
      width="450"  height="400"
      align="right" src="https://wakatime.com/share/@309c5f1d-c262-4839-aeb0-85962c9aa247/7061972b-c58d-450e-ade6-d3d7caf43efe.svg"
       style="border:5px solid black"/>
-  
-  ---
-  
-  ---
+
   
   
  <img
