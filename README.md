@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m Interested in Software Engineering ,Test Automation and Machine learning.
-- 🌱 I’m currently learning about Everything Related to computer science.
+- 🌱 I’m currently learning Golang.
 - 😄 Pronouns: He/His
 - Spoken Languages : Arabic (Native) - English (Fluent)
 
