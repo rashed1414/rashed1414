@@ -25,14 +25,14 @@
 
 
 <a href="https://github.com/rashed1414">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" width="300"  height="300" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" width="450"  height="400" />
 </a>
 <a href="https://github.com/rashed1414">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" width="300"  height="300"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" />
 </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed1414&" width="300"  height="300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed1414&"  /></p>
 
 
 
