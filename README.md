@@ -8,12 +8,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed1414&theme=monokai" alt="rashed1414" /></a> </p>
 
-
----
-
----
 
 
 
@@ -30,20 +25,23 @@
 
 
 <a href="https://github.com/rashed1414">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed1414&theme=light&hide_langs_below=1" width="300"  height="300" />
 </a>
 <a href="https://github.com/rashed1414">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" alt="Rashed's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashed1414&show_icons=true&theme=light&line_height=32" width="300"  height="300"/>
 </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed1414&" alt="rashed1414" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed1414&" width="300"  height="300" /></p>
 
 
 
 <div align="left">
   
 ---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed1414&theme=monokai" alt="rashed1414" /></a> </p>
+
+
 ---
 
 
@@ -70,27 +68,8 @@
 <br />
 <br />
 
----
-  
----
-
-## Statistics about me
-  
-  
----
-  
----
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Coding Stats</summary>
+  <summary>:zap: Coding Statistics</summary>
   
 <br />
 <br />
