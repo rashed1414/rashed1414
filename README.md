@@ -4,9 +4,13 @@
 
 <p align="left"> <img width="100px" src="https://komarev.com/ghpvc/?username=rashed1414&label=Views&color=blue&style=plastic" alt="rashed1414" /> </p>
 
+
 ---
 
 ---
+
+<p> >> I'm a computer scientist and software engineer with a passion and experience in machine learning, software development, and test automation </p>
+<p> >> I'm currently learning more about backend development using Python & Golang </p>
 
 
 
